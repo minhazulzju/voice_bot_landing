@@ -8,7 +8,7 @@ URLS = {
     "voice_bot": "https://chatgpt.com/c",
     "abstract": "https://voice-bot-delta.vercel.app/",
     "cartoonish_mode": "https://gglabs.kikiz.ai/?mode=call",
-    "human_realistic_voice_bot": "https://studio.d-id.com/agents/share?id=v2_agt_M3edR5Zl&key=YkdsdWEyVmthVzU4VFVWRlZuQmFiV2t4ZVRveWJFdFNSM05wUlZNMGVsaHVSbmwxTjNSUmFIRT0=",
+    "human_realistic_voice_bot": "https://studio.d-id.com/agents/share?id=v2_agt_-QvaV_gx&key=WVhWMGFEQjhOamsyTTJNNFpUYzJNalkwWXpFMk16Y3pZakF5WWpFMk9sOW5lalZsZDNsemVXeFZUbFoxU2kxWVVFNHdOZz09",
 }
 
 
